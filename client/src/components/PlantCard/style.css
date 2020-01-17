@@ -1,0 +1,20 @@
+.card {
+  background: lightgreen;
+  border-top: rgb(48, 20, 20) solid 4px;
+  border-left: rgb(48, 20, 20) solid 4px;
+  border-right: rgb(48, 20, 20) solid 4px;
+  border-bottom: rgb(48, 20, 20) solid 4px;
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+  text-align: center;
+  opacity: 70%;
+  clear:both;
+}
+
+button {
+  background-color: lightblue;
+}
+
+.card-body {
+  margin: 5px;
+}
