@@ -1,7 +1,5 @@
-import React, { Component } from 'react';
-import axios from 'axios'
+import React from 'react';
 import './style.css';
-import Button from '../Home/index'
 
 
 function PlantCard(props) {
